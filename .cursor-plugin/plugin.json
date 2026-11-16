@@ -1,0 +1,14 @@
+{
+  "name": "planagram",
+  "description": "Draft, schedule, edit and review social media posts with Planagram, the social media scheduler. Connects to the hosted Planagram MCP server at mcp.getplanagram.com; sign in with your Planagram account on first connect, no API key needed.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Planagram LLC",
+    "email": "support@getplanagram.com"
+  },
+  "homepage": "https://getplanagram.com",
+  "repository": "https://github.com/getplanagram-bit/planagram-plugin",
+  "license": "MIT",
+  "keywords": ["planagram", "social media", "social media scheduler", "schedule posts", "content calendar"],
+  "logo": "assets/logo.svg"
+}
